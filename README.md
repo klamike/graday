@@ -10,7 +10,7 @@ days until graduation for staten island tech class of 2018
 5) Navigate to Contents->MacOS and drag [graday.1h.sh](https://github.com/klamike/graday/releases) into the folder.
 6) Click techtime.app or BitBarDistro.app
 
-Note: If you choose to download [techtime.app.zip](https://github.com/klamike/techtime/releases), techtime will be loaded alongside graday.
+Note: If you choose to download [techtime.app.zip](https://github.com/klamike/techtime/releases), [techtime](https://github.com/klamike/techtime) will be loaded alongside graday.
 
 ## to do:
 
