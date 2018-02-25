@@ -15,3 +15,4 @@ Note: If you choose to download [techtime.app.zip](https://github.com/klamike/te
 ## to do:
 
  - ~~add menu bar display~~
+ - ~~add college dates~~
